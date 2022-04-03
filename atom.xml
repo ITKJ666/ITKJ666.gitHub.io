@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itkj666.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-03T09:16:27.209Z</updated>
+    <title>IT科技</title>
+    <updated>2022-04-03T10:23:27.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itkj666.github.io"/>
     <link rel="self" href="https://itkj666.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>IT科技</subtitle>
     <logo>https://itkj666.github.io/images/avatar.png</logo>
     <icon>https://itkj666.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, IT科技</rights>
     <entry>
         <title type="html"><![CDATA[华为谷歌框架安装教程]]></title>
         <id>https://itkj666.github.io/post/hello-gridea/</id>
