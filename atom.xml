@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itkj666.github.io</id>
     <title>IT科技</title>
-    <updated>2022-04-03T11:23:57.937Z</updated>
+    <updated>2022-04-03T11:24:42.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itkj666.github.io"/>
     <link rel="self" href="https://itkj666.github.io/atom.xml"/>
@@ -16,10 +16,7 @@
         <link href="https://itkj666.github.io/post/hello-gridea/">
         </link>
         <updated>2022-02-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>😁123123123<img src="https://itkj666.github.io/post-images/1648983337006.jpg" alt="" loading="lazy"></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>😁123123123<img src="https://itkj666.github.io/post-images/1648983337006.jpg" alt="" loading="lazy"></p>
-<!-- more -->
+        <content type="html"><![CDATA[<p>😁123123123!</p>
 ]]></content>
     </entry>
 </feed>
